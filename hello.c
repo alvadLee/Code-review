@@ -2,7 +2,7 @@
 *   the code run in ide is passed!! (gdb compiler  vs code editor)
 *   but can't passed by CI autocheck!!!
 */
-
+// 哈哈 笑死我了
 #include <stdio.h>
 
     int add(int a,int b)
